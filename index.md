@@ -1,10 +1,14 @@
-## Volador's Portfolio
+# Jingyi's Portfolio
+Freelance illustrator / Graphic designer / Studying master in game& animation production
 
-You can use the [editor on GitHub](https://github.com/xiaowupei/xiaowupei.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Illustrations
 
-### Content
+### Graphic Designs
+
+### Sketches & Doodles
+
+### Crafts
 
 ### Volador P
 
